@@ -28,5 +28,3 @@
   ## Github
   <a href="https://github.com/tmantena1">GitHub</a>
   <br>
-  <br>
-  <a href = "https://watch.screencastify.com/v/BOP6A7zOF33ZpLm9PmUb"> Link to tutorial video</a>
